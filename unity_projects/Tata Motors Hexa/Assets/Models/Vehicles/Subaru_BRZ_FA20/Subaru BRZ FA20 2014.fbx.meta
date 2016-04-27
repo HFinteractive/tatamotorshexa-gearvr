@@ -1,0 +1,714 @@
+fileFormatVersion: 2
+guid: 15050b4f36f6cd145a92b2e37aa128a2
+timeCreated: 1459404207
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 3001_001
+    100002: Antenna_001
+    100004: Backup Light Cover_001
+    100006: Black Glass_001
+    100008: Body_001
+    100010: bonnet_ok#2_001
+    100012: boot_ok#2_001
+    100014: Bucket Seat_001
+    100016: Bucket Seat_002
+    100018: bump_fro01#2_001
+    100020: bump_rea01#2_001
+    100022: D#1_001
+    100024: Door Glass_001
+    100026: Door Glass_002
+    100028: door_lf_ok#2_001
+    100030: door_lf_ok#2_003
+    100032: Driving Lights_001
+    100034: Driving Lights_002
+    100036: Exhaust Tip_001
+    100038: Exhaust Tip_002
+    100040: FB_001
+    100042: Fender Garnish 2_001
+    100044: Fender Garnish 2_002
+    100046: Fog Lamp Cover_001
+    100048: Fog Lamp Cover_002
+    100050: Font Suspension_001
+    100052: Font Suspension_002
+    100054: Front Belt Buckle_001
+    100056: Front Belt Buckle_002
+    100058: Front Belt Catch_001
+    100060: Front Belt Catch_002
+    100062: Front Belt Lock_001
+    100064: Front Belt Lock_002
+    100066: Front Seat Belt_001
+    100068: Front Seat Belt_002
+    100070: Front Seat Mechanism_001
+    100072: Front Seat Mechanism_002
+    100074: Front Windshield_001
+    100076: Group_002
+    100078: Group_003
+    100080: Group_004
+    100082: Group_005
+    100084: Group_006
+    100086: Group_007
+    100088: Group_008
+    100090: Group_009
+    100092: Group_011
+    100094: Group_012
+    100096: Group_013
+    100098: Group_014
+    100100: Group_015
+    100102: Group_016
+    100104: Group_017
+    100106: Group_018
+    100108: Group_020
+    100110: Group_021
+    100112: Group_022
+    100114: Group_023
+    100116: Group_024
+    100118: Group_025
+    100120: Group_026
+    100122: Group_027
+    100124: Group_029
+    100126: Group_030
+    100128: Group_031
+    100130: Group_032
+    100132: Group_033
+    100134: Group_034
+    100136: Group_035
+    100138: Group_036
+    100140: Headlight Assembly_001
+    100142: Headlight Assembly_002
+    100144: Headlight CoverF_001
+    100146: Headlight CoverF_002
+    100148: Headrest_001
+    100150: Headrest_002
+    100152: Interior Tub_001
+    100154: interior#2_001
+    100156: Muffler_001
+    100158: Plate 048_001
+    100160: Powerplant_001
+    100162: Projector Cover_001
+    100164: Projector Cover_002
+    100166: Projector Lamp_001
+    100168: Projector Lamp_002
+    100170: Quartew Window Black Glass_001
+    100172: Quartew Window Black Glass_002
+    100174: Rear Belt 2_001
+    100176: Rear Belt 2_002
+    100178: Rear Belt 3_001
+    100180: Rear Belt 3_002
+    100182: Rear Belt_001
+    100184: Rear Belt_002
+    100186: Rear Quarter Window_001
+    100188: Rear Quarter Window_002
+    100190: Rear Seat Garnish_001
+    100192: Rear Seat Garnish_002
+    100194: Rear Spoiler_001
+    100196: Rear Suspension_001
+    100198: Rear Suspension_002
+    100200: Rear Windshield_001
+    100202: RZ_001
+    100204: Seat Back_001
+    100206: Seat Back_002
+    100208: Seat Strap_001
+    100210: Seat Strap_002
+    100212: Seat_001
+    100214: Seat_002
+    100216: skpC9E7_001
+    100218: speedook#2_001
+    100220: Steering Stitching_001
+    100222: steering_o#2_001
+    100224: //RootNode
+    100226: Subaru Stars_001
+    100228: Sun Visor_001
+    100230: Sun Visor_002
+    100232: tahook#2_001
+    100234: Taillight Assembly_001
+    100236: Taillight Assembly_002
+    100238: Taillight Cover_001
+    100240: Taillight Cover_002
+    100242: Underchassis Plastic_001
+    100244: Underchassis Plastic_002
+    100246: Underchassis_001
+    100248: wheel_shin#2_001
+    100250: wheel_shin#2_002
+    100252: wheel_shin#2_003
+    100254: wheel_shin#2_004
+    100256: Wipers_001
+    400000: 3001_001
+    400002: Antenna_001
+    400004: Backup Light Cover_001
+    400006: Black Glass_001
+    400008: Body_001
+    400010: bonnet_ok#2_001
+    400012: boot_ok#2_001
+    400014: Bucket Seat_001
+    400016: Bucket Seat_002
+    400018: bump_fro01#2_001
+    400020: bump_rea01#2_001
+    400022: D#1_001
+    400024: Door Glass_001
+    400026: Door Glass_002
+    400028: door_lf_ok#2_001
+    400030: door_lf_ok#2_003
+    400032: Driving Lights_001
+    400034: Driving Lights_002
+    400036: Exhaust Tip_001
+    400038: Exhaust Tip_002
+    400040: FB_001
+    400042: Fender Garnish 2_001
+    400044: Fender Garnish 2_002
+    400046: Fog Lamp Cover_001
+    400048: Fog Lamp Cover_002
+    400050: Font Suspension_001
+    400052: Font Suspension_002
+    400054: Front Belt Buckle_001
+    400056: Front Belt Buckle_002
+    400058: Front Belt Catch_001
+    400060: Front Belt Catch_002
+    400062: Front Belt Lock_001
+    400064: Front Belt Lock_002
+    400066: Front Seat Belt_001
+    400068: Front Seat Belt_002
+    400070: Front Seat Mechanism_001
+    400072: Front Seat Mechanism_002
+    400074: Front Windshield_001
+    400076: Group_002
+    400078: Group_003
+    400080: Group_004
+    400082: Group_005
+    400084: Group_006
+    400086: Group_007
+    400088: Group_008
+    400090: Group_009
+    400092: Group_011
+    400094: Group_012
+    400096: Group_013
+    400098: Group_014
+    400100: Group_015
+    400102: Group_016
+    400104: Group_017
+    400106: Group_018
+    400108: Group_020
+    400110: Group_021
+    400112: Group_022
+    400114: Group_023
+    400116: Group_024
+    400118: Group_025
+    400120: Group_026
+    400122: Group_027
+    400124: Group_029
+    400126: Group_030
+    400128: Group_031
+    400130: Group_032
+    400132: Group_033
+    400134: Group_034
+    400136: Group_035
+    400138: Group_036
+    400140: Headlight Assembly_001
+    400142: Headlight Assembly_002
+    400144: Headlight CoverF_001
+    400146: Headlight CoverF_002
+    400148: Headrest_001
+    400150: Headrest_002
+    400152: Interior Tub_001
+    400154: interior#2_001
+    400156: Muffler_001
+    400158: Plate 048_001
+    400160: Powerplant_001
+    400162: Projector Cover_001
+    400164: Projector Cover_002
+    400166: Projector Lamp_001
+    400168: Projector Lamp_002
+    400170: Quartew Window Black Glass_001
+    400172: Quartew Window Black Glass_002
+    400174: Rear Belt 2_001
+    400176: Rear Belt 2_002
+    400178: Rear Belt 3_001
+    400180: Rear Belt 3_002
+    400182: Rear Belt_001
+    400184: Rear Belt_002
+    400186: Rear Quarter Window_001
+    400188: Rear Quarter Window_002
+    400190: Rear Seat Garnish_001
+    400192: Rear Seat Garnish_002
+    400194: Rear Spoiler_001
+    400196: Rear Suspension_001
+    400198: Rear Suspension_002
+    400200: Rear Windshield_001
+    400202: RZ_001
+    400204: Seat Back_001
+    400206: Seat Back_002
+    400208: Seat Strap_001
+    400210: Seat Strap_002
+    400212: Seat_001
+    400214: Seat_002
+    400216: skpC9E7_001
+    400218: speedook#2_001
+    400220: Steering Stitching_001
+    400222: steering_o#2_001
+    400224: //RootNode
+    400226: Subaru Stars_001
+    400228: Sun Visor_001
+    400230: Sun Visor_002
+    400232: tahook#2_001
+    400234: Taillight Assembly_001
+    400236: Taillight Assembly_002
+    400238: Taillight Cover_001
+    400240: Taillight Cover_002
+    400242: Underchassis Plastic_001
+    400244: Underchassis Plastic_002
+    400246: Underchassis_001
+    400248: wheel_shin#2_001
+    400250: wheel_shin#2_002
+    400252: wheel_shin#2_003
+    400254: wheel_shin#2_004
+    400256: Wipers_001
+    2300000: 3001_001
+    2300002: Antenna_001
+    2300004: Backup Light Cover_001
+    2300006: Black Glass_001
+    2300008: Body_001
+    2300010: bonnet_ok#2_001
+    2300012: boot_ok#2_001
+    2300014: Bucket Seat_001
+    2300016: Bucket Seat_002
+    2300018: bump_fro01#2_001
+    2300020: bump_rea01#2_001
+    2300022: D#1_001
+    2300024: Door Glass_001
+    2300026: Door Glass_002
+    2300028: door_lf_ok#2_001
+    2300030: door_lf_ok#2_003
+    2300032: Driving Lights_001
+    2300034: Driving Lights_002
+    2300036: Exhaust Tip_001
+    2300038: Exhaust Tip_002
+    2300040: FB_001
+    2300042: Fender Garnish 2_001
+    2300044: Fender Garnish 2_002
+    2300046: Fog Lamp Cover_001
+    2300048: Fog Lamp Cover_002
+    2300050: Font Suspension_001
+    2300052: Font Suspension_002
+    2300054: Front Belt Buckle_001
+    2300056: Front Belt Buckle_002
+    2300058: Front Belt Catch_001
+    2300060: Front Belt Catch_002
+    2300062: Front Belt Lock_001
+    2300064: Front Belt Lock_002
+    2300066: Front Seat Belt_001
+    2300068: Front Seat Belt_002
+    2300070: Front Seat Mechanism_001
+    2300072: Front Seat Mechanism_002
+    2300074: Front Windshield_001
+    2300076: Group_002
+    2300078: Group_003
+    2300080: Group_004
+    2300082: Group_005
+    2300084: Group_006
+    2300086: Group_007
+    2300088: Group_008
+    2300090: Group_009
+    2300092: Group_011
+    2300094: Group_012
+    2300096: Group_013
+    2300098: Group_014
+    2300100: Group_015
+    2300102: Group_016
+    2300104: Group_017
+    2300106: Group_018
+    2300108: Group_020
+    2300110: Group_021
+    2300112: Group_022
+    2300114: Group_023
+    2300116: Group_024
+    2300118: Group_025
+    2300120: Group_026
+    2300122: Group_027
+    2300124: Group_029
+    2300126: Group_030
+    2300128: Group_031
+    2300130: Group_032
+    2300132: Group_033
+    2300134: Group_034
+    2300136: Group_035
+    2300138: Group_036
+    2300140: Headlight Assembly_001
+    2300142: Headlight Assembly_002
+    2300144: Headlight CoverF_001
+    2300146: Headlight CoverF_002
+    2300148: Headrest_001
+    2300150: Headrest_002
+    2300152: Interior Tub_001
+    2300154: interior#2_001
+    2300156: Muffler_001
+    2300158: Plate 048_001
+    2300160: Powerplant_001
+    2300162: Projector Cover_001
+    2300164: Projector Cover_002
+    2300166: Projector Lamp_001
+    2300168: Projector Lamp_002
+    2300170: Quartew Window Black Glass_001
+    2300172: Quartew Window Black Glass_002
+    2300174: Rear Belt 2_001
+    2300176: Rear Belt 2_002
+    2300178: Rear Belt 3_001
+    2300180: Rear Belt 3_002
+    2300182: Rear Belt_001
+    2300184: Rear Belt_002
+    2300186: Rear Quarter Window_001
+    2300188: Rear Quarter Window_002
+    2300190: Rear Seat Garnish_001
+    2300192: Rear Seat Garnish_002
+    2300194: Rear Spoiler_001
+    2300196: Rear Suspension_001
+    2300198: Rear Suspension_002
+    2300200: Rear Windshield_001
+    2300202: RZ_001
+    2300204: Seat Back_001
+    2300206: Seat Back_002
+    2300208: Seat Strap_001
+    2300210: Seat Strap_002
+    2300212: Seat_001
+    2300214: Seat_002
+    2300216: skpC9E7_001
+    2300218: speedook#2_001
+    2300220: Steering Stitching_001
+    2300222: steering_o#2_001
+    2300224: Subaru Stars_001
+    2300226: Sun Visor_001
+    2300228: Sun Visor_002
+    2300230: tahook#2_001
+    2300232: Taillight Assembly_001
+    2300234: Taillight Assembly_002
+    2300236: Taillight Cover_001
+    2300238: Taillight Cover_002
+    2300240: Underchassis Plastic_001
+    2300242: Underchassis Plastic_002
+    2300244: Underchassis_001
+    2300246: wheel_shin#2_001
+    2300248: wheel_shin#2_002
+    2300250: wheel_shin#2_003
+    2300252: wheel_shin#2_004
+    2300254: Wipers_001
+    3300000: 3001_001
+    3300002: Antenna_001
+    3300004: Backup Light Cover_001
+    3300006: Black Glass_001
+    3300008: Body_001
+    3300010: bonnet_ok#2_001
+    3300012: boot_ok#2_001
+    3300014: Bucket Seat_001
+    3300016: Bucket Seat_002
+    3300018: bump_fro01#2_001
+    3300020: bump_rea01#2_001
+    3300022: D#1_001
+    3300024: Door Glass_001
+    3300026: Door Glass_002
+    3300028: door_lf_ok#2_001
+    3300030: door_lf_ok#2_003
+    3300032: Driving Lights_001
+    3300034: Driving Lights_002
+    3300036: Exhaust Tip_001
+    3300038: Exhaust Tip_002
+    3300040: FB_001
+    3300042: Fender Garnish 2_001
+    3300044: Fender Garnish 2_002
+    3300046: Fog Lamp Cover_001
+    3300048: Fog Lamp Cover_002
+    3300050: Font Suspension_001
+    3300052: Font Suspension_002
+    3300054: Front Belt Buckle_001
+    3300056: Front Belt Buckle_002
+    3300058: Front Belt Catch_001
+    3300060: Front Belt Catch_002
+    3300062: Front Belt Lock_001
+    3300064: Front Belt Lock_002
+    3300066: Front Seat Belt_001
+    3300068: Front Seat Belt_002
+    3300070: Front Seat Mechanism_001
+    3300072: Front Seat Mechanism_002
+    3300074: Front Windshield_001
+    3300076: Group_002
+    3300078: Group_003
+    3300080: Group_004
+    3300082: Group_005
+    3300084: Group_006
+    3300086: Group_007
+    3300088: Group_008
+    3300090: Group_009
+    3300092: Group_011
+    3300094: Group_012
+    3300096: Group_013
+    3300098: Group_014
+    3300100: Group_015
+    3300102: Group_016
+    3300104: Group_017
+    3300106: Group_018
+    3300108: Group_020
+    3300110: Group_021
+    3300112: Group_022
+    3300114: Group_023
+    3300116: Group_024
+    3300118: Group_025
+    3300120: Group_026
+    3300122: Group_027
+    3300124: Group_029
+    3300126: Group_030
+    3300128: Group_031
+    3300130: Group_032
+    3300132: Group_033
+    3300134: Group_034
+    3300136: Group_035
+    3300138: Group_036
+    3300140: Headlight Assembly_001
+    3300142: Headlight Assembly_002
+    3300144: Headlight CoverF_001
+    3300146: Headlight CoverF_002
+    3300148: Headrest_001
+    3300150: Headrest_002
+    3300152: Interior Tub_001
+    3300154: interior#2_001
+    3300156: Muffler_001
+    3300158: Plate 048_001
+    3300160: Powerplant_001
+    3300162: Projector Cover_001
+    3300164: Projector Cover_002
+    3300166: Projector Lamp_001
+    3300168: Projector Lamp_002
+    3300170: Quartew Window Black Glass_001
+    3300172: Quartew Window Black Glass_002
+    3300174: Rear Belt 2_001
+    3300176: Rear Belt 2_002
+    3300178: Rear Belt 3_001
+    3300180: Rear Belt 3_002
+    3300182: Rear Belt_001
+    3300184: Rear Belt_002
+    3300186: Rear Quarter Window_001
+    3300188: Rear Quarter Window_002
+    3300190: Rear Seat Garnish_001
+    3300192: Rear Seat Garnish_002
+    3300194: Rear Spoiler_001
+    3300196: Rear Suspension_001
+    3300198: Rear Suspension_002
+    3300200: Rear Windshield_001
+    3300202: RZ_001
+    3300204: Seat Back_001
+    3300206: Seat Back_002
+    3300208: Seat Strap_001
+    3300210: Seat Strap_002
+    3300212: Seat_001
+    3300214: Seat_002
+    3300216: skpC9E7_001
+    3300218: speedook#2_001
+    3300220: Steering Stitching_001
+    3300222: steering_o#2_001
+    3300224: Subaru Stars_001
+    3300226: Sun Visor_001
+    3300228: Sun Visor_002
+    3300230: tahook#2_001
+    3300232: Taillight Assembly_001
+    3300234: Taillight Assembly_002
+    3300236: Taillight Cover_001
+    3300238: Taillight Cover_002
+    3300240: Underchassis Plastic_001
+    3300242: Underchassis Plastic_002
+    3300244: Underchassis_001
+    3300246: wheel_shin#2_001
+    3300248: wheel_shin#2_002
+    3300250: wheel_shin#2_003
+    3300252: wheel_shin#2_004
+    3300254: Wipers_001
+    4300000: 3001_001
+    4300002: RZ_001
+    4300004: FB_001
+    4300006: D#1_001
+    4300008: Plate 048_001
+    4300010: Door Glass_002
+    4300012: door_lf_ok#2_003
+    4300014: Exhaust Tip_002
+    4300016: Exhaust Tip_001
+    4300018: Muffler_001
+    4300020: Powerplant_001
+    4300022: Antenna_001
+    4300024: Headlight CoverF_002
+    4300026: Headlight CoverF_001
+    4300028: Taillight Cover_002
+    4300030: Taillight Cover_001
+    4300032: Fender Garnish 2_002
+    4300034: Black Glass_001
+    4300036: Fender Garnish 2_001
+    4300038: Rear Quarter Window_002
+    4300040: Rear Windshield_001
+    4300042: Front Windshield_001
+    4300044: Rear Quarter Window_001
+    4300046: Quartew Window Black Glass_002
+    4300048: Quartew Window Black Glass_001
+    4300050: Body_001
+    4300052: Wipers_001
+    4300054: Rear Suspension_002
+    4300056: Rear Suspension_001
+    4300058: Font Suspension_002
+    4300060: Underchassis Plastic_002
+    4300062: Font Suspension_001
+    4300064: Underchassis Plastic_001
+    4300066: Underchassis_001
+    4300068: Fog Lamp Cover_002
+    4300070: Driving Lights_002
+    4300072: Fog Lamp Cover_001
+    4300074: Driving Lights_001
+    4300076: bump_fro01#2_001
+    4300078: Projector Cover_002
+    4300080: Projector Lamp_002
+    4300082: Headlight Assembly_002
+    4300084: Taillight Assembly_002
+    4300086: Taillight Assembly_001
+    4300088: Projector Cover_001
+    4300090: Projector Lamp_001
+    4300092: Headlight Assembly_001
+    4300094: Subaru Stars_001
+    4300096: Steering Stitching_001
+    4300098: steering_o#2_001
+    4300100: Rear Spoiler_001
+    4300102: boot_ok#2_001
+    4300104: wheel_shin#2_004
+    4300106: wheel_shin#2_003
+    4300108: wheel_shin#2_002
+    4300110: Door Glass_001
+    4300112: door_lf_ok#2_001
+    4300114: Backup Light Cover_001
+    4300116: bump_rea01#2_001
+    4300118: bonnet_ok#2_001
+    4300120: wheel_shin#2_001
+    4300122: Front Belt Catch_002
+    4300124: Front Belt Buckle_002
+    4300126: Front Seat Belt_002
+    4300128: Front Belt Catch_001
+    4300130: Front Belt Buckle_001
+    4300132: Front Seat Belt_001
+    4300134: Sun Visor_002
+    4300136: Sun Visor_001
+    4300138: Interior Tub_001
+    4300140: Rear Seat Garnish_002
+    4300142: Rear Seat Garnish_001
+    4300144: Headrest_002
+    4300146: Seat Strap_002
+    4300148: Seat Back_002
+    4300150: Front Seat Mechanism_002
+    4300152: Seat_002
+    4300154: Front Belt Lock_002
+    4300156: Bucket Seat_002
+    4300158: Headrest_001
+    4300160: Seat Strap_001
+    4300162: Seat Back_001
+    4300164: Front Seat Mechanism_001
+    4300166: Seat_001
+    4300168: Front Belt Lock_001
+    4300170: Bucket Seat_001
+    4300172: Rear Belt_002
+    4300174: Rear Belt 2_002
+    4300176: Rear Belt 3_002
+    4300178: Rear Belt_001
+    4300180: Rear Belt 2_001
+    4300182: Rear Belt 3_001
+    4300184: interior#2_001
+    4300186: tahook#2_001
+    4300188: speedook#2_001
+    4300190: Group_036
+    4300192: Group_035
+    4300194: Group_034
+    4300196: Group_033
+    4300198: Group_032
+    4300200: Group_031
+    4300202: Group_030
+    4300204: Group_029
+    4300206: Group_027
+    4300208: Group_026
+    4300210: Group_025
+    4300212: Group_024
+    4300214: Group_023
+    4300216: Group_022
+    4300218: Group_021
+    4300220: Group_020
+    4300222: Group_018
+    4300224: Group_017
+    4300226: Group_016
+    4300228: Group_015
+    4300230: Group_014
+    4300232: Group_013
+    4300234: Group_012
+    4300236: Group_011
+    4300238: Group_009
+    4300240: Group_008
+    4300242: Group_007
+    4300244: Group_006
+    4300246: Group_005
+    4300248: Group_004
+    4300250: Group_003
+    4300252: Group_002
+    4300254: skpC9E7_001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

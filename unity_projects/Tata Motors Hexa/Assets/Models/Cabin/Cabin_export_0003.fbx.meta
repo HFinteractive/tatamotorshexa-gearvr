@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: a3f0feec7ec4831479c0b634c875ce75
+timeCreated: 1461677744
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm (2)
+    100002: cabin
+    100004: Cabin (2)
+    100006: cabin look around
+    100008: cabin seat (4)
+    100010: cabin seat (5)
+    100012: cabin seat back (6)
+    100014: cabin seat back (7)
+    100016: cabin seat back (8)
+    100018: cabin seat foot rest (6)
+    100020: cabin seat foot rest (7)
+    100022: Cabin TV (2)
+    100024: //RootNode
+    100026: fuselage (4)
+    100028: G650
+    100030: interior bulkheads (2)
+    100032: interior fittings
+    100034: Ovation (2)
+    100036: Ovation Base (2)
+    100038: Ovation Screen (2)
+    100040: sofas (2)
+    100042: stand (2)
+    100044: Tablet (2)
+    100046: Tablet Screen (2)
+    100048: Texture Group
+    100050: wings (2)
+    400000: arm (2)
+    400002: cabin
+    400004: Cabin (2)
+    400006: cabin look around
+    400008: cabin seat (4)
+    400010: cabin seat (5)
+    400012: cabin seat back (6)
+    400014: cabin seat back (7)
+    400016: cabin seat back (8)
+    400018: cabin seat foot rest (6)
+    400020: cabin seat foot rest (7)
+    400022: Cabin TV (2)
+    400024: //RootNode
+    400026: fuselage (4)
+    400028: G650
+    400030: interior bulkheads (2)
+    400032: interior fittings
+    400034: Ovation (2)
+    400036: Ovation Base (2)
+    400038: Ovation Screen (2)
+    400040: sofas (2)
+    400042: stand (2)
+    400044: Tablet (2)
+    400046: Tablet Screen (2)
+    400048: Texture Group
+    400050: wings (2)
+    2300000: arm (2)
+    2300002: cabin seat (4)
+    2300004: cabin seat (5)
+    2300006: cabin seat back (6)
+    2300008: cabin seat back (7)
+    2300010: cabin seat back (8)
+    2300012: cabin seat foot rest (6)
+    2300014: cabin seat foot rest (7)
+    2300016: Cabin TV (2)
+    2300018: fuselage (4)
+    2300020: interior bulkheads (2)
+    2300022: interior fittings
+    2300024: Ovation (2)
+    2300026: Ovation Base (2)
+    2300028: Ovation Screen (2)
+    2300030: sofas (2)
+    2300032: stand (2)
+    2300034: Tablet (2)
+    2300036: Tablet Screen (2)
+    2300038: wings (2)
+    3300000: arm (2)
+    3300002: cabin seat (4)
+    3300004: cabin seat (5)
+    3300006: cabin seat back (6)
+    3300008: cabin seat back (7)
+    3300010: cabin seat back (8)
+    3300012: cabin seat foot rest (6)
+    3300014: cabin seat foot rest (7)
+    3300016: Cabin TV (2)
+    3300018: fuselage (4)
+    3300020: interior bulkheads (2)
+    3300022: interior fittings
+    3300024: Ovation (2)
+    3300026: Ovation Base (2)
+    3300028: Ovation Screen (2)
+    3300030: sofas (2)
+    3300032: stand (2)
+    3300034: Tablet (2)
+    3300036: Tablet Screen (2)
+    3300038: wings (2)
+    4300000: fuselage (4)
+    4300002: wings (2)
+    4300004: interior fittings
+    4300006: sofas (2)
+    4300008: interior bulkheads (2)
+    4300010: Tablet (2)
+    4300012: Tablet Screen (2)
+    4300014: stand (2)
+    4300016: Ovation Base (2)
+    4300018: arm (2)
+    4300020: Ovation (2)
+    4300022: Ovation Screen (2)
+    4300024: cabin seat (4)
+    4300026: cabin seat foot rest (7)
+    4300028: cabin seat foot rest (6)
+    4300030: cabin seat back (7)
+    4300032: cabin seat back (8)
+    4300034: cabin seat (5)
+    4300036: cabin seat back (6)
+    4300038: Cabin TV (2)
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

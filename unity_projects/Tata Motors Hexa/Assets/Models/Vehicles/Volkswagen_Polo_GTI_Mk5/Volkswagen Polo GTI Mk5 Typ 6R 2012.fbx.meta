@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: af1c636f0d0fae1459b780c2e0f80955
+timeCreated: 1459404223
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 200_001
+    100002: 200_002
+    100004: Antenna_001
+    100006: Body Panel_001
+    100008: Body Panel_002
+    100010: boot_glass_001
+    100012: boot_ok_001
+    100014: bump_fro01_001
+    100016: bump_glass_001
+    100018: bump_rea01_001
+    100020: Bumper Lights Cover_001
+    100022: Bumper Lights Cover_002
+    100024: D#1_001
+    100026: D#1_002
+    100028: detail_lig_001
+    100030: detail_lig_003
+    100032: Door Lining_001
+    100034: Door Lining_002
+    100036: door_lf_gl_001
+    100038: door_lf_gl_002
+    100040: door_lf_ok_001
+    100042: door_lf_ok_002
+    100044: Driving Lights_001
+    100046: Driving Lights_002
+    100048: exhaust_ok_001
+    100050: Fixed Window Trim_001
+    100052: Fixed Window Trim_002
+    100054: Front Fender_001
+    100056: Front Fender_002
+    100058: Front Seat_001
+    100060: Front Seat_002
+    100062: Grills_001
+    100064: Grills_002
+    100066: Group_001
+    100068: Group_002
+    100070: Group_003
+    100072: Group_004
+    100074: Group_005
+    100076: Group_006
+    100078: Group_007
+    100080: Group_008
+    100082: Hood Half_001
+    100084: Hood Half_002
+    100086: interior_001
+    100088: lights_001
+    100090: lights_002
+    100092: lights_gla_001
+    100094: lights_gla_002
+    100096: Lower Bumper Grill Half_001
+    100098: Lower Bumper Grill Half_002
+    100100: NP_001
+    100102: NP_002
+    100104: Plastic Trim_001
+    100106: Plastic Trim_002
+    100108: Plate 048_001
+    100110: Plate 048_002
+    100112: Projector Cover_001
+    100114: Projector Cover_002
+    100116: Projector Reflector_001
+    100118: Projector Reflector_002
+    100120: Rear Belts_001
+    100122: Rear Belts_002
+    100124: Rear Bumper Fascia_001
+    100126: Rear Headrest_001
+    100128: Rear Headrest_002
+    100130: Rear Headrest_003
+    100132: Rear Quarter Window_001
+    100134: Rear Quarter Window_002
+    100136: Roof Half_001
+    100138: Roof Half_002
+    100140: Running Board_001
+    100142: Running Board_002
+    100144: sides_rear_001
+    100146: skp6854_001
+    100148: Steering Wheel_001
+    100150: Tail Pipe_001
+    100152: Tail Pipe_002
+    100154: Tub_001
+    100156: Underbody Detail_001
+    100158: //RootNode
+    100160: VW Badge_001
+    100162: wheel_stoc_001
+    100164: wheel_stoc_002
+    100166: wheel_stoc_003
+    100168: wheel_stoc_004
+    100170: windscre01_001
+    100172: Windshield Black Glass_001
+    100174: Wipers_001
+    100176: WOB_001
+    100178: WOB_002
+    400000: 200_001
+    400002: 200_002
+    400004: Antenna_001
+    400006: Body Panel_001
+    400008: Body Panel_002
+    400010: boot_glass_001
+    400012: boot_ok_001
+    400014: bump_fro01_001
+    400016: bump_glass_001
+    400018: bump_rea01_001
+    400020: Bumper Lights Cover_001
+    400022: Bumper Lights Cover_002
+    400024: D#1_001
+    400026: D#1_002
+    400028: detail_lig_001
+    400030: detail_lig_003
+    400032: Door Lining_001
+    400034: Door Lining_002
+    400036: door_lf_gl_001
+    400038: door_lf_gl_002
+    400040: door_lf_ok_001
+    400042: door_lf_ok_002
+    400044: Driving Lights_001
+    400046: Driving Lights_002
+    400048: exhaust_ok_001
+    400050: Fixed Window Trim_001
+    400052: Fixed Window Trim_002
+    400054: Front Fender_001
+    400056: Front Fender_002
+    400058: Front Seat_001
+    400060: Front Seat_002
+    400062: Grills_001
+    400064: Grills_002
+    400066: Group_001
+    400068: Group_002
+    400070: Group_003
+    400072: Group_004
+    400074: Group_005
+    400076: Group_006
+    400078: Group_007
+    400080: Group_008
+    400082: Hood Half_001
+    400084: Hood Half_002
+    400086: interior_001
+    400088: lights_001
+    400090: lights_002
+    400092: lights_gla_001
+    400094: lights_gla_002
+    400096: Lower Bumper Grill Half_001
+    400098: Lower Bumper Grill Half_002
+    400100: NP_001
+    400102: NP_002
+    400104: Plastic Trim_001
+    400106: Plastic Trim_002
+    400108: Plate 048_001
+    400110: Plate 048_002
+    400112: Projector Cover_001
+    400114: Projector Cover_002
+    400116: Projector Reflector_001
+    400118: Projector Reflector_002
+    400120: Rear Belts_001
+    400122: Rear Belts_002
+    400124: Rear Bumper Fascia_001
+    400126: Rear Headrest_001
+    400128: Rear Headrest_002
+    400130: Rear Headrest_003
+    400132: Rear Quarter Window_001
+    400134: Rear Quarter Window_002
+    400136: Roof Half_001
+    400138: Roof Half_002
+    400140: Running Board_001
+    400142: Running Board_002
+    400144: sides_rear_001
+    400146: skp6854_001
+    400148: Steering Wheel_001
+    400150: Tail Pipe_001
+    400152: Tail Pipe_002
+    400154: Tub_001
+    400156: Underbody Detail_001
+    400158: //RootNode
+    400160: VW Badge_001
+    400162: wheel_stoc_001
+    400164: wheel_stoc_002
+    400166: wheel_stoc_003
+    400168: wheel_stoc_004
+    400170: windscre01_001
+    400172: Windshield Black Glass_001
+    400174: Wipers_001
+    400176: WOB_001
+    400178: WOB_002
+    2300000: 200_001
+    2300002: 200_002
+    2300004: Antenna_001
+    2300006: Body Panel_001
+    2300008: Body Panel_002
+    2300010: boot_glass_001
+    2300012: boot_ok_001
+    2300014: bump_fro01_001
+    2300016: bump_glass_001
+    2300018: bump_rea01_001
+    2300020: Bumper Lights Cover_001
+    2300022: Bumper Lights Cover_002
+    2300024: D#1_001
+    2300026: D#1_002
+    2300028: detail_lig_001
+    2300030: detail_lig_003
+    2300032: Door Lining_001
+    2300034: Door Lining_002
+    2300036: door_lf_gl_001
+    2300038: door_lf_gl_002
+    2300040: door_lf_ok_001
+    2300042: door_lf_ok_002
+    2300044: Driving Lights_001
+    2300046: Driving Lights_002
+    2300048: exhaust_ok_001
+    2300050: Fixed Window Trim_001
+    2300052: Fixed Window Trim_002
+    2300054: Front Fender_001
+    2300056: Front Fender_002
+    2300058: Front Seat_001
+    2300060: Front Seat_002
+    2300062: Grills_001
+    2300064: Grills_002
+    2300066: Group_001
+    2300068: Group_002
+    2300070: Group_003
+    2300072: Group_004
+    2300074: Group_005
+    2300076: Group_006
+    2300078: Group_007
+    2300080: Group_008
+    2300082: Hood Half_001
+    2300084: Hood Half_002
+    2300086: interior_001
+    2300088: lights_001
+    2300090: lights_002
+    2300092: lights_gla_001
+    2300094: lights_gla_002
+    2300096: Lower Bumper Grill Half_001
+    2300098: Lower Bumper Grill Half_002
+    2300100: NP_001
+    2300102: NP_002
+    2300104: Plastic Trim_001
+    2300106: Plastic Trim_002
+    2300108: Plate 048_001
+    2300110: Plate 048_002
+    2300112: Projector Cover_001
+    2300114: Projector Cover_002
+    2300116: Projector Reflector_001
+    2300118: Projector Reflector_002
+    2300120: Rear Belts_001
+    2300122: Rear Belts_002
+    2300124: Rear Bumper Fascia_001
+    2300126: Rear Headrest_001
+    2300128: Rear Headrest_002
+    2300130: Rear Headrest_003
+    2300132: Rear Quarter Window_001
+    2300134: Rear Quarter Window_002
+    2300136: Roof Half_001
+    2300138: Roof Half_002
+    2300140: Running Board_001
+    2300142: Running Board_002
+    2300144: sides_rear_001
+    2300146: skp6854_001
+    2300148: Steering Wheel_001
+    2300150: Tail Pipe_001
+    2300152: Tail Pipe_002
+    2300154: Tub_001
+    2300156: Underbody Detail_001
+    2300158: VW Badge_001
+    2300160: wheel_stoc_001
+    2300162: wheel_stoc_002
+    2300164: wheel_stoc_003
+    2300166: wheel_stoc_004
+    2300168: windscre01_001
+    2300170: Windshield Black Glass_001
+    2300172: Wipers_001
+    2300174: WOB_001
+    2300176: WOB_002
+    3300000: 200_001
+    3300002: 200_002
+    3300004: Antenna_001
+    3300006: Body Panel_001
+    3300008: Body Panel_002
+    3300010: boot_glass_001
+    3300012: boot_ok_001
+    3300014: bump_fro01_001
+    3300016: bump_glass_001
+    3300018: bump_rea01_001
+    3300020: Bumper Lights Cover_001
+    3300022: Bumper Lights Cover_002
+    3300024: D#1_001
+    3300026: D#1_002
+    3300028: detail_lig_001
+    3300030: detail_lig_003
+    3300032: Door Lining_001
+    3300034: Door Lining_002
+    3300036: door_lf_gl_001
+    3300038: door_lf_gl_002
+    3300040: door_lf_ok_001
+    3300042: door_lf_ok_002
+    3300044: Driving Lights_001
+    3300046: Driving Lights_002
+    3300048: exhaust_ok_001
+    3300050: Fixed Window Trim_001
+    3300052: Fixed Window Trim_002
+    3300054: Front Fender_001
+    3300056: Front Fender_002
+    3300058: Front Seat_001
+    3300060: Front Seat_002
+    3300062: Grills_001
+    3300064: Grills_002
+    3300066: Group_001
+    3300068: Group_002
+    3300070: Group_003
+    3300072: Group_004
+    3300074: Group_005
+    3300076: Group_006
+    3300078: Group_007
+    3300080: Group_008
+    3300082: Hood Half_001
+    3300084: Hood Half_002
+    3300086: interior_001
+    3300088: lights_001
+    3300090: lights_002
+    3300092: lights_gla_001
+    3300094: lights_gla_002
+    3300096: Lower Bumper Grill Half_001
+    3300098: Lower Bumper Grill Half_002
+    3300100: NP_001
+    3300102: NP_002
+    3300104: Plastic Trim_001
+    3300106: Plastic Trim_002
+    3300108: Plate 048_001
+    3300110: Plate 048_002
+    3300112: Projector Cover_001
+    3300114: Projector Cover_002
+    3300116: Projector Reflector_001
+    3300118: Projector Reflector_002
+    3300120: Rear Belts_001
+    3300122: Rear Belts_002
+    3300124: Rear Bumper Fascia_001
+    3300126: Rear Headrest_001
+    3300128: Rear Headrest_002
+    3300130: Rear Headrest_003
+    3300132: Rear Quarter Window_001
+    3300134: Rear Quarter Window_002
+    3300136: Roof Half_001
+    3300138: Roof Half_002
+    3300140: Running Board_001
+    3300142: Running Board_002
+    3300144: sides_rear_001
+    3300146: skp6854_001
+    3300148: Steering Wheel_001
+    3300150: Tail Pipe_001
+    3300152: Tail Pipe_002
+    3300154: Tub_001
+    3300156: Underbody Detail_001
+    3300158: VW Badge_001
+    3300160: wheel_stoc_001
+    3300162: wheel_stoc_002
+    3300164: wheel_stoc_003
+    3300166: wheel_stoc_004
+    3300168: windscre01_001
+    3300170: Windshield Black Glass_001
+    3300172: Wipers_001
+    3300174: WOB_001
+    3300176: WOB_002
+    4300000: 200_002
+    4300002: NP_002
+    4300004: WOB_002
+    4300006: D#1_002
+    4300008: Plate 048_002
+    4300010: 200_001
+    4300012: NP_001
+    4300014: WOB_001
+    4300016: D#1_001
+    4300018: Plate 048_001
+    4300020: Group_008
+    4300022: Group_007
+    4300024: Group_006
+    4300026: Group_005
+    4300028: Group_004
+    4300030: Group_003
+    4300032: Group_002
+    4300034: Group_001
+    4300036: Fixed Window Trim_002
+    4300038: Door Lining_002
+    4300040: Door Lining_001
+    4300042: Plastic Trim_002
+    4300044: Front Fender_002
+    4300046: Tub_001
+    4300048: Underbody Detail_001
+    4300050: Antenna_001
+    4300052: Plastic Trim_001
+    4300054: Front Fender_001
+    4300056: Wipers_001
+    4300058: Windshield Black Glass_001
+    4300060: Fixed Window Trim_001
+    4300062: Running Board_002
+    4300064: Running Board_001
+    4300066: Body Panel_002
+    4300068: Body Panel_001
+    4300070: Roof Half_002
+    4300072: Roof Half_001
+    4300074: Front Seat_002
+    4300076: Front Seat_001
+    4300078: Steering Wheel_001
+    4300080: Projector Cover_002
+    4300082: Projector Reflector_002
+    4300084: lights_002
+    4300086: lights_gla_002
+    4300088: detail_lig_003
+    4300090: Tail Pipe_002
+    4300092: Tail Pipe_001
+    4300094: exhaust_ok_001
+    4300096: door_lf_ok_002
+    4300098: door_lf_gl_002
+    4300100: wheel_stoc_004
+    4300102: wheel_stoc_003
+    4300104: wheel_stoc_002
+    4300106: wheel_stoc_001
+    4300108: boot_ok_001
+    4300110: boot_glass_001
+    4300112: Hood Half_002
+    4300114: Hood Half_001
+    4300116: door_lf_gl_001
+    4300118: door_lf_ok_001
+    4300120: Bumper Lights Cover_002
+    4300122: Bumper Lights Cover_001
+    4300124: Rear Bumper Fascia_001
+    4300126: bump_rea01_001
+    4300128: bump_glass_001
+    4300130: Lower Bumper Grill Half_002
+    4300132: Lower Bumper Grill Half_001
+    4300134: Grills_002
+    4300136: Grills_001
+    4300138: VW Badge_001
+    4300140: Driving Lights_002
+    4300142: Driving Lights_001
+    4300144: bump_fro01_001
+    4300146: detail_lig_001
+    4300148: lights_gla_001
+    4300150: Projector Cover_001
+    4300152: Projector Reflector_001
+    4300154: lights_001
+    4300156: windscre01_001
+    4300158: Rear Quarter Window_002
+    4300160: Rear Quarter Window_001
+    4300162: sides_rear_001
+    4300164: Rear Headrest_003
+    4300166: Rear Belts_002
+    4300168: Rear Belts_001
+    4300170: Rear Headrest_002
+    4300172: Rear Headrest_001
+    4300174: interior_001
+    4300176: skp6854_001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
